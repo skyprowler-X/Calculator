@@ -1,1 +1,2 @@
-A basic calculator using python an tkinter lib
+A basic calculator using python and tkinter library
+
